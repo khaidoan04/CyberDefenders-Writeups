@@ -1,0 +1,23 @@
+# Never commit evidence files or samples
+*.pcap
+*.pcapng
+*.vmem
+*.mem
+*.dmp
+*.raw
+*.img
+*.E01
+*.evtx
+*.msi
+*.exe
+*.dll
+*.elf
+*.bin
+*.zip
+*.7z
+*.cab
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
