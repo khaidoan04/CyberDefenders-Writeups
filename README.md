@@ -9,9 +9,7 @@ Each write-up follows the same structure:
 - **Analysis**: how I went through the evidence, step by step, with screenshots.
 - **Answer the Questions**: the lab questions with my answers, at the end, so the analysis can be read without spoilers.
 
-Conventions: timestamps are UTC unless stated; external IOCs are defanged (`hxxp[://]`, `203[.]0[.]113[.]5`); internal addresses are left readable; secrets and personal data seen in lab artefacts are redacted. If an analysis has gaps or mistakes, feel free to open an issue.
 
-> **Note:** CyberDefenders asks members not to publish lab answers. Check the platform's current terms before reusing anything from the *Answer the Questions* sections.
 
 ## Network forensics
 
